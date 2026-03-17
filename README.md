@@ -30,8 +30,8 @@ python app.py
 
 ## 💡 Exemplo de saída
 
-Aparelho: Geladeira
-Consumo estimado: 45.00 kWh/mês
+Aparelho: Geladeira </br>
+Consumo estimado: 45.00 kWh/mês </br>
 Custo estimado: R$ 33.75
 
 
